@@ -1,0 +1,18 @@
+description: Welcome to Better Informatics. The student run website for the School of Informatics.
+
+sass:
+   sourcemap: true
+
+url: "http://betterinformatics.com"
+baseurl: "" # does not include hostname
+
+collections:
+  pages:
+    output: true
+    permalink: "/:path"
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

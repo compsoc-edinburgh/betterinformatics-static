@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+
+    {% include head.html %}
+
+    <body id="top">
+		<div id="title" class="ir">
+			<h1>Better Informatics</h1>
+		</div>
+
+		{% include nav.html %}
+
+		<div id="content">
+			<a href="#" id="edit_link">edit this page</a>
+			{{ content }}
+		</div>
+
+		<script>
+			var _gaq=[['_setAccount','UA-5993154-18'],['_trackPageview']];
+			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';
+			s.parentNode.insertBefore(g,s)}(document,'script'));
+		</script>
+	</body>
+</html>
