@@ -1,7 +1,7 @@
 ---
 ---
 
-**NOTE:** The shared GDrive account had some issues. Contact n.nardelli@sms.ed.ac.uk if you want to have access to it.
+**NOTE:** The shared GDrive account had some issues. Contact s1620208@sms.ed.ac.uk if you want to have access to it.
 
 **ADDING FILES**
 
